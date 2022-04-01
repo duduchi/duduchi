@@ -1,7 +1,7 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Keep%20Studying&fontSize=90)
 
-### Tech Stack
+### 🐶Tech Stack🐶
 
 <div style='d-flex'>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -13,3 +13,5 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
  </div>
+
+### 🐱Blog🐱
