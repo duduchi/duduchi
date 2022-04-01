@@ -15,3 +15,4 @@
  </div>
 
 ### 🐱Blog🐱
+<a href="https://flex-developer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
