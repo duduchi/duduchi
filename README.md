@@ -16,8 +16,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/>
 
+
  </div>
 
 ### 🐱Blog🐱
 <a href="https://sincere-waltz-ff3.notion.site/DUDUCHI-s-Portfolio-66f5fff72934454baf02016420bcf100" target="_blank"><img src="https://camo.githubusercontent.com/20aa9a5204a3131643e260bf26b2d4656297e5a04b8a8c332947e54697f040a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d476974487562205061676573266c6f676f436f6c6f723d7768697465"/></a>
+<a href="https://blog.naver.com/dlgmlrb7736" target="_blank"><img src="https://img.shields.io/badge/Naver(OLD)-03C75A?style=flat-square&logo=Naver&logoColor=black"/></a>
 <a href="https://flex-developer.tistory.com" target="_blank"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=default)](https://github.com/loosie/github-readme-tistory-card"/></a>
