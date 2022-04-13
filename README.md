@@ -1,6 +1,9 @@
 ### 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Keep%20Studying&fontSize=90)
 
+i'm HeeGyu(Duchi) working as a front-end developer in Korea <br/>
+i like <b>learning new things</b>, and i think <b>communication and Cooperation</b> is important
+
 ### 🐶Tech Stack🐶
 
 <div style='d-flex'>
